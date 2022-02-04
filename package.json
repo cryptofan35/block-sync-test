@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.32.0",
+    "async": "^3.2.3",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.0",
+    "web3": "^1.2.7"
+  }
+}
